@@ -1,0 +1,3 @@
+Physical address exist directly in hardware, 
+but virtual address does not represent the actual physical location, 
+the system maintains a page table for each process.
